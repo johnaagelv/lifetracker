@@ -1,2 +1,2 @@
-# lifetracker
+# Life Tracker
 All projects related to the life tracker. Expected to contain a life timeline, timeline posts (text, images, links, files), privacy categories (public, private, friends), and more ...
